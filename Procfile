@@ -1,0 +1,1 @@
+worker: python bot_v2_with_korea_china.py
